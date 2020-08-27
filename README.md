@@ -4,3 +4,4 @@ Scala-Spark-Project
 - Unit test in the job
 - Configured spark job logger
 - Auto register UDFs right after spark session is created
+- Added support for Spark ML
