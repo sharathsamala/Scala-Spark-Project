@@ -16,6 +16,9 @@ libraryDependencies += "org.apache.spark" %% "spark-hive" % "2.4.5"
 // https://mvnrepository.com/artifact/org.apache.spark/spark-streaming
 libraryDependencies += "org.apache.spark" %% "spark-streaming" % "2.4.5"
 
+// https://mvnrepository.com/artifact/org.apache.spark/spark-mllib
+libraryDependencies += "org.apache.spark" %% "spark-mllib" % "2.4.5"
+
 // https://mvnrepository.com/artifact/com.typesafe.scala-logging/scala-logging
 libraryDependencies += "com.typesafe.scala-logging" %% "scala-logging" % "3.9.2"
 
